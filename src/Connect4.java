@@ -260,7 +260,7 @@ public class Connect4
 					else {
 						if (board[winLocation[0][0]][winLocation[0][1]] == 1)
 							label2.setText("Player Red wins!");
-					/* TODO
+					/*
 					 * Highlight the squares red at
 					 * board[winLocation[0][0]][winLocation[0][1]]
 					 * board[winLocation[1][0]][winLocation[1][1]]
