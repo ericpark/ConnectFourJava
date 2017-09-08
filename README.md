@@ -1,5 +1,6 @@
 # ConnectFourJava
 ![Logo](https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Connect_4_Board_and_Box.jpg/250px-Connect_4_Board_and_Box.jpg)
+
 CS112 Final Project written in Java. Play against a connect four AI.
 
 
